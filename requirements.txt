@@ -1,5 +1,14 @@
 chainlit>=1.0.0
 langchain>=0.2.0
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+ctransformers
+pypdf
+passlib
+bcrypt
+python-dotenvchainlit>=1.0.0
+langchain>=0.2.0
 ollama>=0.1.0
 passlib
 bcrypt
